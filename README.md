@@ -5,5 +5,5 @@ Adaptive:
 1040px
 768px
 
-hover effects
+hover effects,
 filter
